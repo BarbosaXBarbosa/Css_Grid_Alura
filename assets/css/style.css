@@ -11,6 +11,9 @@
 }
 
 .cabecalho {
+    align-items: center;
+    display: flex;
+    padding: 0 2rem;
     grid-area: cabecalho;
 }
  
